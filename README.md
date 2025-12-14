@@ -34,7 +34,6 @@ The implementation includes parameter sweeps for Lidstone smoothing, constructio
 ## Repository Structure
 - `src/` – Python source code for data processing, model implementation, and evaluation  
 - `figures/` – Generated plots and figures used in the paper  
-- `data/` – Scripts or instructions for preparing the Reuters-21578 subsets  
 - `latex/` – LaTeX source files for the paper  
 - `README.md` – Project overview (this file)
 
